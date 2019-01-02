@@ -61,6 +61,8 @@ ItemDisplay[pk3]: %GOLD%Destruction [Nihlathak]
 ItemDisplay[dhn]: %GOLD%Diablo's Horn
 ItemDisplay[bey]: %GOLD%Baal's Eye
 ItemDisplay[mbr]: %GOLD%Mephisto's Brain
+//Standard of Heroes
+ItemDisplay[std]: %GOLD%%NAME%
 
 //Utility
 //ItemDisplay[tsc]: %GREEN%!%WHITE%TP
